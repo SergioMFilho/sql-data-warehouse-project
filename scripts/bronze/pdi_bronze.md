@@ -1,0 +1,1 @@
+I created a job in pentaho kettle to load the data in bronze layer
